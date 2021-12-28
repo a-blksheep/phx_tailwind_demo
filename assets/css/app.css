@@ -1,3 +1,4 @@
+
 /* This file is for your main application CSS */
 @import "./phoenix.css";
 
@@ -87,3 +88,9 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
